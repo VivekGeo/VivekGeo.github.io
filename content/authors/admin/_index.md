@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 
+title: Dr
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: Tarun Naskar
 # Full name (for SEO)
 first_name: Tarun
 last_name: Naskar
