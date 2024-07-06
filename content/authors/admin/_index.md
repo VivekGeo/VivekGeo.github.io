@@ -1,13 +1,12 @@
 ---
 # Display name
-title: 吳健雄
+title: 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
+name_pronunciation: 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tarun
+last_name: Naskar
 
 # Status emoji
 status:
@@ -20,12 +19,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Indian Institute of Technology
+    url: https://iitm.ac.in/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -183,4 +182,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Tarun Naskar is an assistant professor in the Geotechnical Engineering Division of the Department of Civil Engineering at IIT Madras and the Principal Investigator for Wave Propagation lab IITM. He earned his B.E in Civil Engineering from Bengal Engineering & Science University (now Indian Institute of Engineering Science and Technology), Shibpur in 2008. He obtained his M.E (Topper â€“ Geotech division) and Ph.D. (Geotechnical) in Civil Engineering from the Indian Institute of Science, Bengaluru, India in 2018. Dr. Tarunâ€™s research interests are wave propagation in an elastic medium, SASW/MASW, bender element test, ground response analysis, geotechnical earthquake engineering, and artificial intelligence. His research is majorly focused on developing an efficient inversion tool for practicing engineers to obtain a fast and reliable shear wave velocity profile by incorporating deep learning in the area of geophysical data analysis. He co-authored several articles in peer-reviewed journals such as Soil Dynamics and Earthquake Engineering, Canadian Geotechnical Journal, Journal of Geophysics & Engineering, and Geophysics. He teaches undergraduate and postgraduate level courses such as advanced soil mechanics and computer methods in civil engineering at IITM. He is involved in various projects across India, focusing on the determination of accurate shear wave velocity profile of irregularly dispersive subsurface using MASW. Apart from academics, Dr. Tarun actively participates in trekking, writing poems and reading books. He trekked to the mighty Himalayas, and his most recent one was Kalindi Pass (~6000m)
