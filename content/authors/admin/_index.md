@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr
+title:
 
 # Name pronunciation (optional)
 name_pronunciation: Tarun Naskar
